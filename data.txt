@@ -1,0 +1,3 @@
+Name: Rebeca
+Age: 31
+Favorite color: Purple
